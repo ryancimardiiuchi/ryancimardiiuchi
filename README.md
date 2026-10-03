@@ -173,7 +173,7 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=ryancimardiiuchi&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ryancimardiiuchi&label=VISUALIZAÇÕES%20DO%20PERFIL&color=2563eb&style=for-the-badge" />
 
 </div>
 
