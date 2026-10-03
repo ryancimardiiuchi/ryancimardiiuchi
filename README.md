@@ -26,7 +26,7 @@ Sou estudante de **Ciência da Computação** e desenvolvedor em formação, foc
 <table>
   <tr>
     <td>
-      <a href="https://www.cedupsc.com.br/">
+      <a href="https://www.instagram.com/ceduprrslages?stkn=MTZsMHduY2Y2YXpyZw==/">
         <img width="80" alt="CEDUP Renato Ramos da Silva" src="https://github.com/user-attachments/assets/35a9523e-869e-4db2-9dde-cfa46846ff3b" />
       </a>
     </td>
@@ -113,7 +113,7 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 
 <div align="center">
 
-<a href="COLOQUE_AQUI_O_LINK_DO_INSTAGRAM_DA_HYUNCARE">
+<a href="https://www.instagram.com/hyun.care?stkn=MXVqbGZkaHUwYWJucw==">
 <img src="https://img.shields.io/badge/HYUNCARE-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram HYUNCARE">
 </a>
 
@@ -143,16 +143,6 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 
 ---
 
-## `👀 profile_views`
-
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=ryancimardiiuchi&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" />
-
-</div>
-
----
-
 ## `🌐 contato`
 
 <div align="center">
@@ -161,7 +151,7 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<a href="COLOQUE_AQUI_SEU_LINK_DO_LINKEDIN">
+<a href="https://www.linkedin.com/in/ryan-cimardi-iuchi-4aa2a93b6?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
@@ -173,11 +163,18 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:ryancimardiiuchi@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 </div>
 
 ---
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=ryancimardiiuchi&label=PROFILE%20VIEWS&color=2563eb&style=flat-square" />
+
+</div>
+
 
