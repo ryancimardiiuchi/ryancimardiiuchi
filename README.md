@@ -128,6 +128,7 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 <img src="https://raw.githubusercontent.com/ryancimardiiuchi/ryancimardiiuchi/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
+
 ---
 
 ## `📊 github`
