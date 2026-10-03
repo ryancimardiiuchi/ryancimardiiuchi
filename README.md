@@ -125,14 +125,9 @@ Projeto acadêmico envolvendo **robótica, inteligência artificial e desenvolvi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/generated/overview.svg" alt="GitHub Trophies"/>
-
-<br>
-
-<img src="https://github.com/ryan-cimardiiuchi/ryan-cimardiiuchi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/ryancimardiiuchi/ryancimardiiuchi/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
-
 ---
 
 ## `📊 github`
