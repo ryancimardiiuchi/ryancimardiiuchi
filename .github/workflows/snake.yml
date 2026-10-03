@@ -17,9 +17,9 @@ jobs:
           github_user_name: ryancimardiiuchi
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Publish
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages
