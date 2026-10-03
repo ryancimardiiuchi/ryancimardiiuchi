@@ -6,7 +6,7 @@
 
 ---
 
-## `👨‍💻 about_me`
+## `👨‍💻 About Me`
 
 ```text
 Ryan Cimardi Iuchi
@@ -18,8 +18,6 @@ Ryan Cimardi Iuchi
 ```
 
 Sou estudante de **Ciência da Computação** e desenvolvedor em formação, focado principalmente em **Back-end e aplicações web**.
-
-Gosto de entender como as coisas funcionam por trás da interface: **APIs, autenticação, bancos de dados, segurança e integração entre sistemas**.
 
 ---
 
@@ -38,7 +36,6 @@ Gosto de entender como as coisas funcionam por trás da interface: **APIs, auten
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td>
@@ -54,8 +51,6 @@ Gosto de entender como as coisas funcionam por trás da interface: **APIs, auten
 </table>
 
 ---
-
-## `⚡ stack`
 
 <div align="center">
 
