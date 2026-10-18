@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="2073" height="758" alt="Refúgio Neon do Desenvolvedor" src="https://github.com/user-attachments/assets/5679fa44-eee6-4ce7-a1c1-d8ddffa8ddcf" />
-" />
+
 
 </div>
 
