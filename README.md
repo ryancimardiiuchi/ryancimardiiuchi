@@ -69,8 +69,16 @@ Sou estudante de **Ciência da Computação** e desenvolvedor em formação, foc
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=git,github" alt="Git e GitHub" />
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
 </div>
 
 ---
